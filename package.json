@@ -1,0 +1,21 @@
+{
+  "name": "threejs-basics",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "start": "webpack-dev-server",
+    "build": "webpack --mode=production"
+  },
+  "keywords": [],
+  "author": "me",
+  "license": "ISC",
+  "dependencies": {
+    "three": "^0.98.0"
+  },
+  "devDependencies": {
+    "webpack": "^4.26.0",
+    "webpack-cli": "^3.1.2",
+    "webpack-dev-server": "^3.2.1"
+  }
+}
